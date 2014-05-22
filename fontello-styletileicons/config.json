@@ -1,0 +1,48 @@
+{
+  "name": "",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "91941cbf7656f7379da8f6fa6bb02088",
+      "css": "windmill2",
+      "code": 59393,
+      "src": "custom_icons",
+      "selected": false,
+      "svg": {
+        "path": "M259.9 452.2C174.2 591.7 70.5 668.9 70.5 668.9-26.8 737.8 22.9 617.5 22.9 617.5 65.1 496.2 240.6 391.6 240.6 391.6 237.8 379.5 247.5 372.8 247.5 372.8 90.5 181.1 71.9 67.7 71.9 67.7 57.2-53.6 136.2 39.6 136.2 39.6 251.7 164.5 294.4 353.4 294.4 353.4 311.9 351.3 334.5 366.1 334.5 366.1 518.7 341.9 658.4 387.8 658.4 387.8 786.3 427.6 658.4 458.3 658.4 458.3 508.5 492 339 413 339 413L383.1 972C304 1035.6 241.8 974.2 241.8 974.2L259.9 452.2Z",
+        "width": 722
+      },
+      "search": [
+        "windmill2"
+      ]
+    },
+    {
+      "uid": "197375a3cea8cb90b02d06e4ddf1433d",
+      "css": "globe",
+      "code": 59393,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "aa035df0908c4665c269b7b09a5596f3",
+      "css": "sun",
+      "code": 59394,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "567e3e257f2cc8fba2c12bf691c9f2d8",
+      "css": "moon",
+      "code": 59395,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "bbf50a560f95a4cce5209d47e71cbc30",
+      "css": "pagelines",
+      "code": 59392,
+      "src": "fontawesome"
+    }
+  ]
+}
